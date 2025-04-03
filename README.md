@@ -74,12 +74,15 @@ Adapted the Transformer model fortime-series analysis of motion sensor data, uti
 
 ### 🔧 Skills:
 
-💻 Web Development: HTML, CSS, JavaScript, Spring Boot, Spring MVC, Spring Security, Hibernate, Rest APIs, Git, MySQL, PostgreSQL.
+Languages: Java, Python, SQL, HTML/CSS, JavaScript
 
-📊 Data Science: Python (Pandas, Numpy, Keras), PyTorch, TensorFlow, Machine Learning, Deep Learning.
+Frameworks: Spring Boot, Spring MVC, Spring Security, Hibernate, Rest APIs
 
-📚 Other: Data Structures & Algorithms (DSA), Operating Systems (OS), Computer Networks, Database Management Systems (DBMS), Core Java.  
-  
+Databases: MySQL, PostgreSQL
+
+Tools & Technologies: Git, Maven, Gradle, IntelliJ, Jira, Postman
+
+Other: Data Structures & Algorithms (DSA), Operating Systems (OS), Computer Networks, Database Management Systems (DBMS).  
 
 <br/>  
 
