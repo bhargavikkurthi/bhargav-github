@@ -45,13 +45,13 @@
 
 👨‍💻 Student Intern 🏢 Siemens Digital Industries Software India Pvt Ltd, Pune, Maharashtra 📆 Jul 2022 – May 2023
 
-Integrated PII encryption measures into services and developed a Java Swing utility for secure data decryption.
+. Integrated PII encryption measures into services and developed a Java Swing utility for secure data decryption.
 
-Resolved Compile Time and Runtime errors during the migration of services from Java 8 to Java 11.
+. Resolved Compile Time and Runtime errors during the migration of services from Java 8 to Java 11.
 
-Undertook the PoC to automate the task of fixing security vulnerabilities using Gradle Version Catalog.
+. Undertook the PoC to automate the task of fixing security vulnerabilities using Gradle Version Catalog.
 
-Increased SonarQube Code Coverage and Reduced Code Smells
+. Increased SonarQube Code Coverage and Reduced Code Smells
 
 
 ### 🚀 Projects:
@@ -59,7 +59,6 @@ Increased SonarQube Code Coverage and Reduced Code Smells
 ####  Bank Security Application (Nov 2024 – Dec 2024)
 
 Developed a secure banking system with userregistration, account management, card services, and investments.
-
 Built Admin Panel with JWT authentication and role-based access control, accessible only to users with admin roles.
 
 ####  SegFormer Based UNet Model For ICH Segmentation (Feb 2024 – Jul 2024)
