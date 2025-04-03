@@ -28,6 +28,7 @@
 
 
 ### Glad to see you here!  
+<br/>  
 ### 🎓 Education:
 
  Master of Technology (M.Tech) in Computer Networking
