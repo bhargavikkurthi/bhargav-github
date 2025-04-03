@@ -3,7 +3,8 @@
 - I'm working on full-stack application development with Spring and React.  
   
 - I’m currently learning React
-  
+
+  <br/>  
 
 <a href="https://github.com/bhargavikkurthi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -44,6 +45,7 @@
 📚 CGPA: 7.25
 📅 Aug 2016 – Oct 2020
 
+<br/>  
 
 ### 💼  Experience:
 
@@ -57,6 +59,7 @@
 
 * Increased SonarQube Code Coverage and Reduced Code Smells
 
+<br/>  
 
 ### 🚀 Projects:
 
@@ -75,6 +78,7 @@ performance achieving a DSC score of 86.80% and IoU of 85.90%.
 Adapted the Transformer model fortime-series analysis of motion sensor data, utilizing self-attention to achieve
 99.2% accuracy, outperforming conventional ML methods.
 
+<br/>  
 
 ### 🔧 Skills:
 
@@ -87,10 +91,6 @@ Databases: MySQL, PostgreSQL
 Tools & Technologies: Git, Maven, Gradle, IntelliJ, Jira, Postman
 
 Other: Data Structures & Algorithms (DSA), Operating Systems (OS), Computer Networks, Database Management Systems (DBMS).  
-
-<br/>  
-
-
 
 <br/>  
 
