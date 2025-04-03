@@ -43,7 +43,7 @@
 
 ### 💼  Experience:
 
-👨‍💻 Student Intern 🏢 Wizergos, Pune, Maharashtra 📆 Jul 2022 – May 2023
+👨‍💻 Student Intern 🏢 Siemens Digital Industries Software India Pvt Ltd, Pune, Maharashtra 📆 Jul 2022 – May 2023
 
 Integrated PII encryption measures into services and developed a Java Swing utility for secure data decryption.
 
