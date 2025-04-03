@@ -114,13 +114,4 @@ Adapted the Transformer model fortime-series analysis of motion sensor data, uti
 
 <br/>  
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=bhargavikkurthi&&style=flat-square)  
-  
-
-<br/>  
-
 ----
