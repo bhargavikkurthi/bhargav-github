@@ -37,7 +37,7 @@
 
 🏛️ Gayatri Vidya Parishad College of Engineering(A), Visakhapatnam, Andhra Pradesh
 
-📚 CGPA: 7.32
+📚 CGPA: 7.25
 📅 Aug 2016 – Oct 2020
 
 
