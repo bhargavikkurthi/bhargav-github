@@ -1,4 +1,8 @@
 ## Hey 👋, I'm Bhargava Krishna Ikkurthi !  
+
+- I'm working on full-stack application development with Spring and React.  
+  
+- I’m currently learning React
   
 
 <a href="https://github.com/bhargavikkurthi" target="_blank">
@@ -87,15 +91,6 @@ Other: Data Structures & Algorithms (DSA), Operating Systems (OS), Computer Netw
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- 🔭 I'm working on full-stack application development with Spring and React.  
-  
-- 🌱 I’m currently learning React
-
-
-</td></tr></table>  
 
 <br/>  
 
