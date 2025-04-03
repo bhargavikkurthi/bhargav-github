@@ -27,17 +27,18 @@
 
  Master of Technology (M.Tech) in Computer Networking
 
+ 🏛️ Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh
+
+📚 CGPA: 7.32
+📅 Sep 2021 – Jul 2024
+
+
+ Bachelor of Technology (B.Tech) in Computer Science and Engineering
+
 🏛️ Gayatri Vidya Parishad College of Engineering(A), Visakhapatnam, Andhra Pradesh
 
 📚 CGPA: 7.32
 📅 Aug 2016 – Oct 2020
-
- Bachelor of Technology (B.Tech) in Computer Science and Engineering
-
-🏛️ Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh
-
-📚 CGPA: 7.25
-📅 Sep 2021 – Jul 2024
 
 
 ### 💼  Experience:
